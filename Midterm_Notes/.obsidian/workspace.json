@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5bf122d3aaee28fd",
+        "id": "0ee0c5c23a6b4dc0",
         "type": "tabs",
         "children": [
           {
-            "id": "c8552ed054c780f3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "62b6fdeff55117dc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1059e545c7e970fb",
+            "id": "fdcf7e30b2139687",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -152,18 +138,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1059e545c7e970fb",
+  "active": "fdcf7e30b2139687",
   "lastOpenFiles": [
+    "forces/assets/friction_kinetic.png",
+    "forces/friction_types/friction_kinetic.png",
+    "forces/friction_types/image.png",
+    "forces/FORCES.md",
+    "forces/normal.md",
+    "forces/friction_types/rolling.md",
+    "forces/friction_types/kinetic_dynamic.md",
+    "forces/friction_types/static.md",
+    "forces/friction_types",
+    "forces/assets/gravity_formula.png",
+    "forces/gravity_formula.png",
+    "forces/image.png",
+    "forces/frictional.md",
+    "forces/assets/normal_force_example.png",
+    "forces/normal_force_example.png",
+    "forces/assets",
+    "newtons_laws/1st_law.md",
+    "newtons_laws/laws.md",
+    "TOPICS.md",
     "forces/tension.md",
     "forces/spring.md",
     "forces/gravitational.md",
-    "forces/frictional.md",
-    "forces/normal.md",
     "forces/centripetal.md",
     "forces",
     "newtons_laws/3rd_law.md",
     "newtons_laws/2nd_law.md",
-    "newtons_laws/1st_law.md",
     "newtons_laws",
     "Welcome.md"
   ]
