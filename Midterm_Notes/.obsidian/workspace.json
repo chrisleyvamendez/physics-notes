@@ -11,8 +11,12 @@
             "id": "fdcf7e30b2139687",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "forces/centripetal.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "forces/centripetal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "forces/centripetal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "forces/centripetal.md"
+              }
             }
           }
         ]
@@ -140,6 +148,16 @@
   },
   "active": "fdcf7e30b2139687",
   "lastOpenFiles": [
+    "forces/centripetal.md",
+    "Untitled.canvas",
+    "forces/assets/car_turn.png",
+    "forces/car_turn.png",
+    "forces/image.png",
+    "forces/assets/centripetal_force_planets.png",
+    "forces/centripetal_force_planets.png",
+    "forces/spring_types/non_linear.md",
+    "forces/spring_types/linear.md",
+    "forces/spring_types",
     "forces/assets/friction_kinetic.png",
     "forces/friction_types/friction_kinetic.png",
     "forces/friction_types/image.png",
@@ -151,10 +169,7 @@
     "forces/friction_types",
     "forces/assets/gravity_formula.png",
     "forces/gravity_formula.png",
-    "forces/image.png",
     "forces/frictional.md",
-    "forces/assets/normal_force_example.png",
-    "forces/normal_force_example.png",
     "forces/assets",
     "newtons_laws/1st_law.md",
     "newtons_laws/laws.md",
@@ -162,7 +177,6 @@
     "forces/tension.md",
     "forces/spring.md",
     "forces/gravitational.md",
-    "forces/centripetal.md",
     "forces",
     "newtons_laws/3rd_law.md",
     "newtons_laws/2nd_law.md",
